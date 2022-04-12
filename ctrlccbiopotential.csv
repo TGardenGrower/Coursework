@@ -1,0 +1,57 @@
+site,trial,block,plot,cctrt,trt,cc,g_quadrat,group
+rs,pre,d,406,small,ctl,annual ryegrass,0.08,grass
+rs,pre,a,101,small,ctl,annual ryegrass,0.1,grass
+lv,pre,d,406,small,ctl,annual ryegrass,0.15,grass
+rs,pre,a,109,small,ctl,annual ryegrass,0.22,grass
+lv,pre,a,101,small,ctl,annual ryegrass,0.3,grass
+rs,pre,a,110,small,ctl,annual ryegrass,0.39,grass
+lv,pre,a,110,small,ctl,annual ryegrass,0.41,grass
+lv,pre,a,109,small,ctl,annual ryegrass,0.45,grass
+rs,pre,a,101,small,ctl,canola,na,brassica
+rs,pre,a,109,small,ctl,canola,na,brassica
+rs,pre,d,406,small,ctl,canola,na,brassica
+lv,pre,d,406,small,ctl,canola,0.05,brassica
+lv,pre,a,110,small,ctl,canola,0.14,brassica
+lv,pre,a,101,small,ctl,canola,0.15,brassica
+rs,pre,a,110,small,ctl,canola,0.15,brassica
+lv,pre,a,109,small,ctl,canola,0.5,brassica
+rs,pre,a,108,large,ctl,cereal rye,0.99,grass
+rs,pre,a,102,large,ctl,cereal rye,1.3,grass
+rs,pre,d,404,large,ctl,cereal rye,1.37,grass
+lv,pre,a,112,large,ctl,cereal rye,1.61,grass
+lv,pre,a,102,large,ctl,cereal rye,1.71,grass
+lv,pre,d,404,large,ctl,cereal rye,1.77,grass
+rs,pre,a,112,large,ctl,cereal rye,2,grass
+lv,pre,a,108,large,ctl,cereal rye,3.71,grass
+lv,pre,a,103,rye,ctl,cereal rye monoculture,1.53,grass
+rs,pre,d,405,rye,ctl,cereal rye monoculture,2.31,grass
+rs,pre,a,111,rye,ctl,cereal rye monoculture,2.55,grass
+rs,pre,a,103,rye,ctl,cereal rye monoculture,2.7,grass
+rs,pre,a,107,rye,ctl,cereal rye monoculture,2.8,grass
+lv,pre,a,107,rye,ctl,cereal rye monoculture,4.12,grass
+lv,pre,d,405,rye,ctl,cereal rye monoculture,4.36,grass
+lv,pre,a,111,rye,ctl,cereal rye monoculture,4.85,grass
+rs,pre,a,102,large,ctl,cowpea,0.14,legume
+lv,pre,a,102,large,ctl,cowpea,0.22,legume
+lv,pre,a,112,large,ctl,cowpea,0.24,legume
+lv,pre,d,404,large,ctl,cowpea,0.45,legume
+rs,pre,a,112,large,ctl,cowpea,0.56,legume
+rs,pre,a,108,large,ctl,cowpea,0.61,legume
+rs,pre,d,404,large,ctl,cowpea,0.76,legume
+lv,pre,a,108,large,ctl,cowpea,0.9,legume
+rs,pre,a,108,large,ctl,Daikon radish,0.04,brassica
+lv,pre,a,102,large,ctl,Daikon radish,0.08,brassica
+lv,pre,d,404,large,ctl,Daikon radish,0.08,brassica
+lv,pre,a,112,large,ctl,Daikon radish,0.14,brassica
+lv,pre,a,108,large,ctl,Daikon radish,0.16,brassica
+rs,pre,a,102,large,ctl,Daikon radish,0.16,brassica
+rs,pre,d,404,large,ctl,Daikon radish,0.27,brassica
+rs,pre,a,112,large,ctl,Daikon radish,0.3,brassica
+rs,pre,a,101,small,ctl,medium red clover,na,legume
+rs,pre,a,109,small,ctl,medium red clover,na,legume
+rs,pre,a,110,small,ctl,medium red clover,na,legume
+rs,pre,d,406,small,ctl,medium red clover,na,legume
+lv,pre,d,406,small,ctl,medium red clover,0.001,legume
+lv,pre,a,110,small,ctl,medium red clover,0.02,legume
+lv,pre,a,101,small,ctl,medium red clover,0.03,legume
+lv,pre,a,109,small,ctl,medium red clover,0.06,legume
